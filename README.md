@@ -14,4 +14,4 @@
 - NodeJS
 - Springboot
 - Linux
-- Ngingx
+- Nginx

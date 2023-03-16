@@ -15,3 +15,6 @@
 - Springboot
 - Linux
 - Nginx
+- MySQL
+- Postgress
+- Python
